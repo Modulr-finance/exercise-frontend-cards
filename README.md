@@ -4,7 +4,7 @@ Welcome to the Modulr coding exercise!
 
 ## Setup
 
-Make sure you're able to run an Angular 9 application, you will need a minimum NodeJS version of 10.13.
+Make sure you're able to run an Angular 9 application, you will need a minimum NodeJS version of 10.13. This application is configured to use Jest, rather than Karma for testing.
 
 Clone the repo and run ```npm install```
 
@@ -27,7 +27,7 @@ Here are some pointers to consider while implementing a solution:
 - How can the user navigate to the page you have created?
 - How can you make the solution responsive?
 - How can you identify and represent different card types & statuses?
-- How would you test the solution (using Jest)?
+- How would you test the solution?
 
 ## Assessment
 
