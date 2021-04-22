@@ -4,6 +4,8 @@ Welcome to the Modulr coding exercise!
 
 ## Setup
 
+Make sure you're able to run an Angular 9 application, you will need a minimum NodeJS version of 10.13.
+
 Clone the repo and run ```npm install```
 
 Once installed run ```ng serve```
