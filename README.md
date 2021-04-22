@@ -4,7 +4,7 @@ Welcome to the Modulr coding exercise!
 
 ## Setup
 
-Make sure you're able to run an Angular 9 application, you will need a minimum NodeJS version of 10.13. This application is configured to use Jest, rather than Karma for testing.
+Make sure you're able to run an [Angular 9 application](https://angular.io/cli), you will need a minimum NodeJS version of 10.13. This application is configured to use Jest, rather than Karma for testing.
 
 Clone the repo and run ```npm install```
 
