@@ -4,7 +4,7 @@ Welcome to the Modulr coding exercise!
 
 ## Setup
 
-Make sure you're able to run an [Angular 9 application](https://angular.io/cli), you will need a minimum NodeJS version of 10.13. This application is configured to use Jest, rather than Karma for testing.
+Make sure you're able to run an [Angular 10 application](https://angular.io/cli), you will need a minimum NodeJS version of 12. This application is configured to use Jest, rather than Karma for testing.
 
 Clone the repo and run ```npm install```
 
@@ -14,9 +14,7 @@ Once installed run ```ng serve```
 
 Try to recreate this design as closely as possible in the time given, you are free to search online for help, but we are keen to see the features that Angular offers being put to use.
 
-Use the data provided (cards.json) in the assets folder to populate the cards.
-
-![Virtual Cards](Design.png)
+Use the data provided (cards.json) in the assets folder to populate the cards and the Design.png image to see how it should look.
 
 We are not looking for a full implementation of everything so think about the areas you want to focus on.
 
