@@ -1,4 +1,4 @@
-# Front Interview Exercise
+# Front-end Interview Exercise
 
 Welcome to the Modulr coding exercise!
 
